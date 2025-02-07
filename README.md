@@ -1,4 +1,5 @@
 ## Hi there 👋
+Hi, I'm a Computer Science, graduated at Università degli Studi di Napoli Parthenope. I'm student @Cyber-HackAdemy-UniNa , based in Naples (IT).
 
 <!--
 **davidecangiano/davidecangiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
