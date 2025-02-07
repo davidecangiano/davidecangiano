@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm on my way, I'm making it, I've got to make it show, yeah!
 Hi, I'm a Computer Science, graduated at Università degli Studi di Napoli Parthenope. I'm student @Cyber-HackAdemy-UniNa , based in Naples (IT).
 
 <!--
